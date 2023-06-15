@@ -4,3 +4,4 @@
 - Small chunks of code can be copied and tested separately
 - Information on various data types as well as functions/classes and other important concepts 
 on working with files (reading/writing) and exceptions handling are convered in separate .py files
+for easier reference
